@@ -1,3 +1,11 @@
+# Cobol Tutorial
+
+https://curlie.org/Computers/Programming/Languages/Cobol/
+
+<br>
+
+
+
 ## Cobol Language Tutorial(Derek Banas)
 
 [COBOL Tutorial : Learn COBOL in One Video\_\_(
