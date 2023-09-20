@@ -20,6 +20,12 @@ Derek Banas
 
 [COBOL Course - Programming with VSCode](https://youtu.be/RdMAEdGvtLA)
 
+<hr>
+
+# Using COBOL to make a video game! | Context Free
+
+https://youtu.be/8-kazxQBolM?si=gd03enIgQwuUk0uS
+
 ```
 $ cobc -x -o hello_col hello_col.cbl
 
