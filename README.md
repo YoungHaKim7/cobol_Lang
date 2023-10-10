@@ -26,6 +26,8 @@
 
 https://youtu.be/8-kazxQBolM?si=gd03enIgQwuUk0uS
 
+- gcc로 컴파일 처음에 하기 때문에 (gcc 필수 설치)
+
 ```
 $ cobc -x -o hello_col hello_col.cbl
 
