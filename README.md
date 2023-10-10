@@ -1,3 +1,24 @@
+# GnuCOBOL
+- A free/libre COBOL compiler
+- 
+https://gnucobol.sourceforge.io/
+
+# Using COBOL to make a video game! | Context Free
+
+https://youtu.be/8-kazxQBolM?si=gd03enIgQwuUk0uS
+
+```
+$ cobc -x -o hello_col hello_col.cbl
+
+
+$ ./hello_col
+```
+
+<br>
+
+<hr>
+
+
 # Cobol Tutorial
 
 https://curlie.org/Computers/Programming/Languages/Cobol/
@@ -22,17 +43,7 @@ Derek Banas
 
 <hr>
 
-# Using COBOL to make a video game! | Context Free
 
-https://youtu.be/8-kazxQBolM?si=gd03enIgQwuUk0uS
-
-```
-$ cobc -x -o hello_col hello_col.cbl
-
-
-$ ./hello_col
-```
-<br>
 
 <hr>
 
