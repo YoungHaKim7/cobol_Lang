@@ -28,6 +28,8 @@ C version "11.2.0"
 
 ```
 
+# Debugging (VSCODE)
+https://www.microfocus.com/documentation/vscode/cobol/GUID-D5CD24DB-2A65-4D65-8956-4B552302DA3F.html
 
 <hr>
 
