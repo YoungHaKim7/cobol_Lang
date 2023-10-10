@@ -6,7 +6,7 @@ echo "\x09\x09java -cp out Main\xa" >> Makefile &&
 echo "b:\xa\x09\x09javac -cp src src/Main.java -d out" >> Makefile &&
 echo "\x09\x09java -cp out Main\xa" >> Makefile &&
 echo "d:\xa\x09\x09wget https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.9.3/junit-platform-console-standalone-1.9.3.jar\xa" >> Makefile &&
-echo "t:\xa\x09\x09java -jar ./junit-platform-console-standalone-1.9.3.jar --class-path dist --scan-class-path\xa" >> Makefile &&
+echo "t:\xa\x09\x09java -jar ./junit-platform-console-standalone-1.9.3.jar --class-path out --scan-class-path\xa" >> Makefile &&
 echo "clean:" >> Makefile &&
 echo "\x09\x09rm -rf *.jar ./out\xa" >> Makefile &&
 echo "init:\xa\x09\x09mkdir src" >> Makefile &&
