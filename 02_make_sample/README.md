@@ -20,6 +20,6 @@ echo "\x09\x09echo \x22\x09PROCEDURE DIVISION.\x22 >> src/main.cbl" >> Makefile
 echo "\x09\x09echo \x22\x09\x091000-START-PARA.\x22 >> src/main.cbl" >> Makefile
 echo "\x09\x09echo \x22\x09\x09DISPLAY \42Enter your name : \42  WITH NO ADVANCING.\x22 >> src/main.cbl" >> Makefile
 echo "\x09\x09echo \x22\x09\x09ACCEPT WS-NAME.\x22 >> src/main.cbl" >> Makefile
-echo "\x09\x09echo \x22\x09\x09DISPLAY \42-Welcome \42 WS-NAME.\x22 >> src/main.cbl" >> Makefile
+echo "\x09\x09echo \x22\x09\x09DISPLAY \42Welcome \42 WS-NAME.\x22 >> src/main.cbl" >> Makefile
 echo "\x09\x09echo \x22\x09STOP RUN.\x22 >> src/main.cbl" >> Makefile
 ```
