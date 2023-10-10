@@ -1,3 +1,10 @@
+<p align="center">
+  <img width=180px src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png" />  
+</p>
+
+
+<hr>
+
 # GnuCOBOL
 - A free/libre COBOL compiler
   - https://gnucobol.sourceforge.io/
