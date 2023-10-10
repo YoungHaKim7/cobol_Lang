@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debugger for Mainframe: INTERTEST™ FOR BATCH",
+            "type": "intertest-batch",
+            "request": "launch",
+            "programName": [
+                "PROGNAME"
+            ],
+            "protsym": [
+                "PROTSYM"
+            ],
+            "interTestHost": "HOST",
+            "interTestPort": 0,
+            "interTestUserName": "USER",
+            "interTestSecure": true,
+            "originalJCL": {
+                "inDSN": "",
+                "stepName": ""
+            },
+            "convertedJCL": ""
+        }
+    ]
+}
