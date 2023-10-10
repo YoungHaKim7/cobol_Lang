@@ -5,7 +5,7 @@
   - http://gotocobol.com.br/teoria/criando-um-ambiente-de-desenvolvimento-cobol-no-macos/passo-1-instalar-o-gnucobol/
 - GCC(MinGW-w64)
   - https://www.mingw-w64.org/downloads/
-  - 난 이걸로 설치함. https://www.msys2.org/ 
+  - 난 이걸로 설치함.(WindowsOS) https://www.msys2.org/ 
   - MinGW-w64 13.2.0(Windows choco)
 
   ```
