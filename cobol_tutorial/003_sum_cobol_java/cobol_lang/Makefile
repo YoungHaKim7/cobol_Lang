@@ -1,2 +1,2 @@
 r :
-		cobc -x -o hello hello.cbl
+		cobc -x -o sum sum.cbl
