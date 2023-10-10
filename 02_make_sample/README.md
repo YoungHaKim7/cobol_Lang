@@ -1,7 +1,7 @@
 # Make sample
 
 ```
-echo "r:\xa\x09\x09mkdir out\xa\x09\x09cobc -x -o ./out/main .src/*.cbl" >> Makefile &&                                      ─╯
+echo "r:\xa\x09\x09mkdir out\xa\x09\x09cobc -x -o ./out/main .src/*.cbl" >> Makefile &&
 echo "\x09\x09./out/main\xa" >> Makefile &&
 echo "clean:" >> Makefile &&
 echo "\x09\x09rm -rf ./out\xa" >> Makefile &&
