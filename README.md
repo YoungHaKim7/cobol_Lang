@@ -6,6 +6,31 @@
 <hr>
 
 # GnuCOBOL
+
+- Linux Install
+- ```sudo apt install gnucobol4```
+
+```
+sudo apt install gnucobol4
+
+cobc -V
+
+cobc (GnuCOBOL) 4.0-early-dev.0
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Written by Keisuke Nishida, Roger While, Ron Norman, Simon Sobisch, Edward Hart
+Built     Sep 14 2021 19:23:38
+Packaged  Jun 06 2020 20:56:36 UTC
+C version "11.2.0"
+
+
+```
+
+
+<hr>
+
 - A free/libre COBOL compiler
   - https://gnucobol.sourceforge.io/
 - 윈도우에 설치하는 방법 bash열어서 설치해야 하는듯 gcc 다 설치 되어있어야함.
