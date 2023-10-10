@@ -1,7 +1,8 @@
 # GnuCOBOL
 - A free/libre COBOL compiler
-- 
-https://gnucobol.sourceforge.io/
+  - https://gnucobol.sourceforge.io/
+- 윈도우에 설치하는 방법 bash열어서 설치해야 하는듯 gcc 다 설치 되어있어야함.
+  - http://gotocobol.com.br/teoria/criando-um-ambiente-de-desenvolvimento-cobol-no-macos/passo-1-instalar-o-gnucobol/
 
 # Using COBOL to make a video game! | Context Free
 
