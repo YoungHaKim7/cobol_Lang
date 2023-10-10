@@ -23,3 +23,7 @@ echo "\x09\x09echo \x22\x09\x09ACCEPT WS-NAME.\x22 >> src/main.cbl" >> Makefile
 echo "\x09\x09echo \x22\x09\x09DISPLAY \42Welcome \42 WS-NAME.\x22 >> src/main.cbl" >> Makefile
 echo "\x09\x09echo \x22\x09STOP RUN.\x22 >> src/main.cbl" >> Makefile
 ```
+
+# How can I escape double quotes in Bash? [duplicate]
+
+https://stackoverflow.com/questions/35586627/how-can-i-escape-double-quotes-in-bash
