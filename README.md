@@ -70,7 +70,7 @@ https://www.tutorialspoint.com/compile_cobol_online.php
 - Column 7
   - comment/continue
 - Column 8-11
-  - division, sections, and paragraphs
+  - divisions, sections, and paragraphs
 
 ```cbl
 000100 IDENTIFICATION DIVISION.
