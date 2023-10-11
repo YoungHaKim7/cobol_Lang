@@ -14,6 +14,8 @@ https://opensource.com/article/17/8/what-about-cobol
 
 - Why COBOL Programming Language Hasn't Disappeared | Built In
   - https://stackoverflow.blog/2020/04/20/brush-up-your-cobol-why-is-a-60-year-old-language-suddenly-in-demand/
+- 코볼Cobol을 배워야하는 이유는 레거시 코드를 100% 이해해야 현대언어로 Migration이 가능하기 때문 ㅜㅜ 쉬운게 없구만 코볼 언어 왜케 많아 ㅜㅜ
+  - https://increment.com/programming-languages/cobol-all-the-way-down/
 
 # GnuCOBOL
 
