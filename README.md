@@ -79,8 +79,10 @@ https://www.tutorialspoint.com/compile_cobol_online.php
 000200 PROGRAM-ID. hello_world.
 000300 PROCEDURE DIVISION.
 000400 DISPLAY "Hello world Cobol Language"
-000500 STOP RUN.
-000600* I am a comment
+000500 DATA DIVISION.
+000600     WORKING-STORAGE SECTION.
+000700 STOP RUN.
+000800* I am a comment
 ```
 
 출처 : COBOL in 100 seconds https://youtu.be/7d7-etf-wNI?si=5ENrTwuCNjH5TpOn
