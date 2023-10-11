@@ -69,8 +69,10 @@ https://www.tutorialspoint.com/compile_cobol_online.php
   - line numbers
 - Column 7
   - comment/continue
-- Column 8-11
+- Columns 8-11
   - divisions, sections, and paragraphs
+- Columns 12-72
+  - COBOL code
 
 ```cbl
 000100 IDENTIFICATION DIVISION.
