@@ -81,9 +81,13 @@ https://www.tutorialspoint.com/compile_cobol_online.php
 000400 DISPLAY "Hello world Cobol Language"
 000500 DATA DIVISION.
 000600     WORKING-STORAGE SECTION.
-000700     01 WS-NAME
-000800 STOP RUN.
-000900* I am a comment
+000700     01 WS-NAME PIC A(6) VALUE IS 'Jeff'
+000800
+000900 PROCEDURE DIVISION.
+001000     DISPLAY "Hello: "WS-NAME.
+001100
+001200 STOP RUN.
+001300* I am a comment
 ```
 
 출처 : COBOL in 100 seconds https://youtu.be/7d7-etf-wNI?si=5ENrTwuCNjH5TpOn
