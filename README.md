@@ -2,7 +2,7 @@
   <img width=180px src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png" />  
 </p>
 
-# Punch Paper천공카드
+# Punch Card 천공카드
 
 <p align="center">
   <img width=400px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/349ec772-d6f7-469d-b400-284777258f8e" />
