@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width=300px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/349ec772-d6f7-469d-b400-284777258f8e" />
+  <img width=400px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/349ec772-d6f7-469d-b400-284777258f8e" />
 </p>
 
 <hr>
