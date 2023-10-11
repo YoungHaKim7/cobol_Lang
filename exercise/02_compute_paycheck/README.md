@@ -1,5 +1,6 @@
 # Cobol
 
+https://stackoverflow.blog/2020/04/20/brush-up-your-cobol-why-is-a-60-year-old-language-suddenly-in-demand/
 
 Here's the data file:
 
