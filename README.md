@@ -63,6 +63,20 @@ https://www.microfocus.com/documentation/vscode/cobol/GUID-D5CD24DB-2A65-4D65-89
 
 https://www.tutorialspoint.com/compile_cobol_online.php
 
+# sample code(Cobol)
+
+- Columns 1-6 line numbers
+
+```cbl
+00100 IDENTIFICATION DIVISION.
+00200 PROGRAM-ID. hello_world.
+00300 PROCEDURE DIVISION.
+00400 DISPLAY "Hello world Cobol Language"
+00500 STOP RUN.
+```
+
+출처 : COBOL in 100 seconds https://youtu.be/7d7-etf-wNI?si=5ENrTwuCNjH5TpOn
+
 # Using COBOL to make a video game! | Context Free
 
 https://youtu.be/8-kazxQBolM?si=gd03enIgQwuUk0uS
