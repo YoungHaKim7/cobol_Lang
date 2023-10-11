@@ -66,6 +66,7 @@ https://www.tutorialspoint.com/compile_cobol_online.php
 # sample code(Cobol)
 
 - Columns 1-6 line numbers
+- Column 7 comment/continue
 
 ```cbl
 000100 IDENTIFICATION DIVISION.
@@ -73,6 +74,7 @@ https://www.tutorialspoint.com/compile_cobol_online.php
 000300 PROCEDURE DIVISION.
 000400 DISPLAY "Hello world Cobol Language"
 000500 STOP RUN.
+000600* I am a comment
 ```
 
 출처 : COBOL in 100 seconds https://youtu.be/7d7-etf-wNI?si=5ENrTwuCNjH5TpOn
