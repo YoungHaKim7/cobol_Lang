@@ -1,3 +1,10 @@
+# Result
+
+```bash
+Charlie   Martin          41.0 15.0 $622.50 $102.09  $43.57  $38.59     $**438.25
+Terry     Lacy            32.0 07.0 $224.00  $36.73  $15.68  $13.88     $**157.71
+```
+
 # Cobol
 
 https://stackoverflow.blog/2020/04/20/brush-up-your-cobol-why-is-a-60-year-old-language-suddenly-in-demand/
