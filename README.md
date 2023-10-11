@@ -10,7 +10,7 @@
 
 # What about cobol
 
-- The problem turned out to be the period at the end of 19. 버그찾는데 19년 걸림??
+- The problem turned out to be the period at the end of 19. 버그찾았는데 19 라인? 으로 밝혀짐?? 
   - https://opensource.com/article/17/8/what-about-cobol
 
 - Why COBOL Programming Language Hasn't Disappeared | Built In
