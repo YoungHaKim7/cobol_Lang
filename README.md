@@ -4,7 +4,7 @@
 
 # Punch Cards 천공카드
 https://opensource.com/article/17/8/what-about-cobol
-- 1959년도에는 하드드라이브는 비싼 시절이라. 천공카드에 기록해서 저장했다는 저걸 넣어서 작동시켰다. 대단.
+- 1959년도에는 하드드라이브가 비싼 시절이라. 천공카드에 기록해서 저장했다는 Punch Cards에 기록해서 그걸 넣어서 작동시켰다. 대단.
 <p align="center">
   <img width=400px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/349ec772-d6f7-469d-b400-284777258f8e" />
 </p>
