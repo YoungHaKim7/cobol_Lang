@@ -8,6 +8,8 @@ https://opensource.com/article/17/8/what-about-cobol
   <img width=400px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/349ec772-d6f7-469d-b400-284777258f8e" />
 </p>
 
+![cobol_punch_cards](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/bd380fee-0312-44dd-a9b8-cf5b6342c793)
+
 # COBOL Coding Form(IBM)
 https://stackoverflow.blog/2020/04/20/brush-up-your-cobol-why-is-a-60-year-old-language-suddenly-in-demand/
 ![cobol_coding_form](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/04ec92c9-29e9-4725-9210-ead97c0b7853)
