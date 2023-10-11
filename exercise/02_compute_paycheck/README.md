@@ -65,7 +65,7 @@ WORKING-STORAGE SECTION.
         02 PRT-FICA-TAX         PIC $,$$9.99.
         02 FILLER               PIC X(5).
         02 PRT-NET-PAY          PIC $*,**9.99.
-    * Tax rates -- 77 level aha！
+* Tax rates -- 77 level aha！
     77 Fed-tax-rate     Pic V999 Value Is .164 .
     77 State-tax-rate   Pic V999 Value Is .070 .
     77 Fica-tax-rate    Pic V999 Value Is .062 .
