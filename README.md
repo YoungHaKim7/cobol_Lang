@@ -68,11 +68,11 @@ https://www.tutorialspoint.com/compile_cobol_online.php
 - Columns 1-6 line numbers
 
 ```cbl
-00100 IDENTIFICATION DIVISION.
-00200 PROGRAM-ID. hello_world.
-00300 PROCEDURE DIVISION.
-00400 DISPLAY "Hello world Cobol Language"
-00500 STOP RUN.
+000100 IDENTIFICATION DIVISION.
+000200 PROGRAM-ID. hello_world.
+000300 PROCEDURE DIVISION.
+000400 DISPLAY "Hello world Cobol Language"
+000500 STOP RUN.
 ```
 
 출처 : COBOL in 100 seconds https://youtu.be/7d7-etf-wNI?si=5ENrTwuCNjH5TpOn
