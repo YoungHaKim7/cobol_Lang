@@ -32,6 +32,9 @@ C version "11.2.0"
 
 https://www.microfocus.com/documentation/vscode/cobol/GUID-D5CD24DB-2A65-4D65-8956-4B552302DA3F.html
 
+- Debug COBOL files with Visual Studio Code 
+  - https://github.com/RechInformatica/rech-cobol-debugger
+
 - code4z
   - https://marketplace.visualstudio.com/items?itemName=broadcomMFD.code4z-extension-pack
 
