@@ -1,15 +1,15 @@
-		IDENTIFICATION DIVISION.
-		PROGRAM-ID. PAYCHECKS.
-		AUTHOR. CHARLES R. MARTIN.
-		DATE-WRITTEN. 2020-APR-15.
-		ENVIRONMENT DIVISION.
-		INPUT-OUTPUT SECTION.
-		FILE-CONTROL.
+        IDENTIFICATION DIVISION.
+        PROGRAM-ID. PAYCHECKS.
+        AUTHOR. CHARLES R. MARTIN.
+        DATE-WRITTEN. 2020-APR-15.
+        ENVIRONMENT DIVISION.
+        INPUT-OUTPUT SECTION.
+        FILE-CONTROL.
 		    SELECT TIMECARDS
                 ASSIGN TO "TIMECARDS.DAT"
                     ORGANIZATION IS LINE SEQUENTIAL.
-		DATA DIVISION.
-		FILE SECTION.
+        DATA DIVISION.
+        FILE SECTION.
             FD TIMECARDS.
             01 TIMECARD.
                 02 EMPLOYEE-NAME.
@@ -17,8 +17,8 @@
                     03 EMP-SURNAME   PIC X(15).
                 02 HOURS-WORKED PIC 99V9.
                 02 PAY-RATE     PIC 99.
-		WORKING-STORAGE SECTION.
-	   * temporary variables in computational usage.
+        WORKING-STORAGE SECTION.
+       * temporary variables in computational usage.
        *    intermediate values for computing paycheck with overtime
 		    01 REGULAR-HOURS    PIC 9(4)V99 USAGE COMP.
             01 OVERTIME-HOURS   PIC 9(4)V99 USAGE COMP.
@@ -51,15 +51,15 @@
        * 88 Level is for conditions.
             01 END-FILE             PIC X.
                 88  EOF VALUE "T".
-		PROCEDURE DIVISION.
-		BEGIN.
+        PROCEDURE DIVISION.
+        BEGIN.
             PERFORM INITIALIZE-PROGRAM.
             PERFORM PROCESS-LINE WITH TEST BEFORE UNTIL EOF
             PERFORM CLEAN-UP.
             STOP RUN.
-		INITIALIZE-PROGRAM.
+        INITIALIZE-PROGRAM.
             OPEN INPUT TIMECARDS.
-		PROCESS-LINE.
+        PROCESS-LINE.
             READ TIMECARDS INTO TIMECARD
                 AT END MOVE "T" TO END-FILE.
             IF NOT EOF THEN
@@ -70,7 +70,7 @@
                 PERFORM COMPUTE-NET-PAY
                 PERFORM PRINT-CHECK
              END-IF.
-		COMPUTE-GROSS-PAY.
+        COMPUTE-GROSS-PAY.
             IF HOURS-WORKED > 40 THEN
                 MULTIPLY PAY-RATE BY 1.5 GIVING OVERTIME-RATE
                 MOVE 40 TO REGULAR-HOURS
@@ -83,21 +83,21 @@
                 MULTIPLY HOURS-WORKED BY PAY-RATE GIVING GROSS-PAY
             END-IF
             .
-		COMPUTE-FED-TAX.
+        COMPUTE-FED-TAX.
             MULTIPLY GROSS-PAY BY FED-TAX-RATE GIVING FED-TAX
             .
-		COMPUTE-STATE-TAX.
+        COMPUTE-STATE-TAX.
        * Compute lets us use a more familiar syntax
             COMPUTE STATE-TAX = GROSS-PAY * STATE-TAX-RATE
             .
-		COMPUTE-FICA.
+        COMPUTE-FICA.
             MULTIPLY GROSS-PAY BY FICA-TAX-RATE GIVING FICA-TAX
             .
-		COMPUTE-NET-PAY.
+        COMPUTE-NET-PAY.
             SUBTRACT FED-TAX STATE-TAX FICA-TAX FROM GROSS-PAY
                 GIVING NET-PAY
             .          
-		PRINT-CHECK.
+        PRINT-CHECK.
             MOVE EMPLOYEE-NAME  TO PRT-EMPLOYEE-NAME
             MOVE HOURS-WORKED   TO PRT-HOURS-WORKED
             MOVE PAY-RATE       TO PRT-PAY-RATE
@@ -108,6 +108,6 @@
             MOVE NET-PAY        TO PRT-NET-PAY
             DISPLAY PAYCHECK
             .
-		CLEAN-UP.
+        CLEAN-UP.
             CLOSE TIMECARDS.
-		END PROGRAM PAYCHECKS.
+        END PROGRAM PAYCHECKS.
