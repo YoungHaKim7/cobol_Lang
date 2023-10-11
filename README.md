@@ -1,9 +1,16 @@
 <p align="center">
   <img width=180px src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png" />  
 </p>
-
+![puch_card_cobol](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/349ec772-d6f7-469d-b400-284777258f8e)
 
 <hr>
+
+# What about cobol
+
+https://opensource.com/article/17/8/what-about-cobol
+
+- Why COBOL Programming Language Hasn't Disappeared | Built In
+  - https://stackoverflow.blog/2020/04/20/brush-up-your-cobol-why-is-a-60-year-old-language-suddenly-in-demand/
 
 # GnuCOBOL
 
