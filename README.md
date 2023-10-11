@@ -10,7 +10,8 @@
 
 # What about cobol
 
-https://opensource.com/article/17/8/what-about-cobol
+- The problem turned out to be the period at the end of 19. 버그찾는데 19년 걸림??
+  - https://opensource.com/article/17/8/what-about-cobol
 
 - Why COBOL Programming Language Hasn't Disappeared | Built In
   - https://stackoverflow.blog/2020/04/20/brush-up-your-cobol-why-is-a-60-year-old-language-suddenly-in-demand/
