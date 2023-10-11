@@ -1,5 +1,22 @@
 # Cobol
 
+
+Here's the data file:
+
+```
+Charlie   Martin         41015
+Terry     Lacy           32007
+```
+
+- and here's the output:
+
+```
+$ cobc -x paycheck.cob 
+$ ./paycheck 
+Charlie   Martin          41.0 15.0 $622.50 $102.09  $43.57  $38.59     $**438.25
+Terry     Lacy            32.0 07.0 $224.00  $36.73  $15.68  $13.88     $**157.71
+```
+
 ```cbl
 IDENTIFICATION DIVISION.
 PROGRAM-ID. PAYCHECKS.

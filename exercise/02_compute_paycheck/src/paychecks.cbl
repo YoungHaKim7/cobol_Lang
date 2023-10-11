@@ -20,7 +20,7 @@
         WORKING-STORAGE SECTION.
        * temporary variables in computational usage.
        *    intermediate values for computing paycheck with overtime
-		    01 REGULAR-HOURS    PIC 9(4)V99 USAGE COMP.
+            01 REGULAR-HOURS    PIC 9(4)V99 USAGE COMP.
             01 OVERTIME-HOURS   PIC 9(4)V99 USAGE COMP.
             01 OVERTIME-RATE    PIC 9(4)V99 USAGE COMP.
             01 REGULAR-PAY      PIC 9(4)V99 USAGE COMP.
