@@ -8,7 +8,7 @@
   <img width=400px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/349ec772-d6f7-469d-b400-284777258f8e" />
 </p>
 
-# CoBol Coding Form(IBM)
+# COBOL Coding Form(IBM)
 ![cobol_coding_form](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/04ec92c9-29e9-4725-9210-ead97c0b7853)
 
 <hr>
