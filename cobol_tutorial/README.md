@@ -1,3 +1,9 @@
+# Cobol tutorial for Beginners | Cobol Essential Training
+
+https://youtu.be/_pAX_ogguLI?si=LQsueeW66-dwjJAw
+
+<hr>
+
 # GnuCobol Guides
 
 https://gnucobol.sourceforge.io/guides.html
