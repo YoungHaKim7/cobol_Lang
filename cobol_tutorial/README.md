@@ -2,6 +2,9 @@
 
 https://youtu.be/_pAX_ogguLI?si=LQsueeW66-dwjJAw
 
+# Making a Game Using COBOL!
+https://youtu.be/qaApxBPKOdw?si=Uv0wGzS_YrdOnyFV
+
 <hr>
 
 # GnuCobol Guides
