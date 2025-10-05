@@ -1,6 +1,9 @@
 <p align="center">
-  <img width=180px src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png" />  
+  <img width=80px src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png" />  
 </p>
+
+# cobol로 만든 웹사이트
+- https://github.com/jmsdnns/webbol
 
 # Punch Cards 천공카드
 https://opensource.com/article/17/8/what-about-cobol
