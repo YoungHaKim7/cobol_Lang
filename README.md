@@ -4,6 +4,10 @@
 
 # cobol로 만든 웹사이트
 - https://github.com/jmsdnns/webbol
+  - **[Webbol - COBOL로 작성된 미니멀 정적 웹 서버](<https://news.hada.io/topic?id=23439&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+  - **COBOL로 작성된 미니멀 정적 웹 서버**로, GnuCOBOL을 이용해 현대적인 시스템 프로그래밍이 가능함을 보여줌  
+  - **현재 디렉터리의 정적 파일 제공**, **MIME 타입 자동 감지**, **HTTP 상태 코드 처리(200/403/404/413)**, **경로 탐색 공격 차단**, **리퀘스트 로그 출력** 등 기능을 제공  
+  - **단일 스레드**로…
 
 # Punch Cards 천공카드
 https://opensource.com/article/17/8/what-about-cobol
